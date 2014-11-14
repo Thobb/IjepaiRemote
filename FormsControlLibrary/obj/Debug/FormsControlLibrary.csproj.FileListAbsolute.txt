@@ -1,0 +1,12 @@
+D:\work\c#\IjepaiRemote\FormsControlLibrary\bin\Debug\FormsControlLibrary.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\bin\Debug\FormsControlLibrary.pdb
+D:\work\c#\IjepaiRemote\FormsControlLibrary\bin\Debug\Interop.MSTSCLib.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\bin\Debug\AxInterop.MSTSCLib.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Debug\Interop.MSTSCLib.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Debug\AxInterop.MSTSCLib.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Debug\FormsControlLibrary.csproj.ResolveComReference.cache
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Debug\FormsControlLibrary.UserControls.resources
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Debug\FormsControlLibrary.csproj.GenerateResource.Cache
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Debug\FormsControlLibrary.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Debug\FormsControlLibrary.pdb
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Debug\FormsControlLibrary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\work\c#\IjepaiRemote\IjepaiRemote\bin\Release\IjepaiRemote.exe.config
+D:\work\c#\IjepaiRemote\IjepaiRemote\bin\Release\IjepaiRemote.exe
+D:\work\c#\IjepaiRemote\IjepaiRemote\bin\Release\IjepaiRemote.pdb
+D:\work\c#\IjepaiRemote\IjepaiRemote\bin\Release\AxInterop.MSTSCLib.dll
+D:\work\c#\IjepaiRemote\IjepaiRemote\obj\Release\IjepaiRemote.csprojResolveAssemblyReference.cache
+D:\work\c#\IjepaiRemote\IjepaiRemote\obj\Release\MainWindow.baml
+D:\work\c#\IjepaiRemote\IjepaiRemote\obj\Release\MainWindow.g.cs
+D:\work\c#\IjepaiRemote\IjepaiRemote\obj\Release\App.g.cs
+D:\work\c#\IjepaiRemote\IjepaiRemote\obj\Release\IjepaiRemote_MarkupCompile.cache
+D:\work\c#\IjepaiRemote\IjepaiRemote\obj\Release\IjepaiRemote.g.resources
+D:\work\c#\IjepaiRemote\IjepaiRemote\obj\Release\IjepaiRemote.Properties.Resources.resources
+D:\work\c#\IjepaiRemote\IjepaiRemote\obj\Release\IjepaiRemote.csproj.GenerateResource.Cache
+D:\work\c#\IjepaiRemote\IjepaiRemote\obj\Release\IjepaiRemote.exe
+D:\work\c#\IjepaiRemote\IjepaiRemote\obj\Release\IjepaiRemote.pdb

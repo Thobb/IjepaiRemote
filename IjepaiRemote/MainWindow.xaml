@@ -1,0 +1,8 @@
+﻿<Window x:Class="IjepaiRemote.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ijepai 0.1" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid Name="gridBody">
+
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+D:\work\c#\IjepaiRemote\FormsControlLibrary\bin\Release\FormsControlLibrary.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\bin\Release\FormsControlLibrary.pdb
+D:\work\c#\IjepaiRemote\FormsControlLibrary\bin\Release\Interop.MSTSCLib.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\bin\Release\AxInterop.MSTSCLib.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Release\FormsControlLibrary.csprojResolveAssemblyReference.cache
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Release\Interop.MSTSCLib.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Release\AxInterop.MSTSCLib.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Release\FormsControlLibrary.csproj.ResolveComReference.cache
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Release\FormsControlLibrary.UserControls.resources
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Release\FormsControlLibrary.csproj.GenerateResource.Cache
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Release\FormsControlLibrary.dll
+D:\work\c#\IjepaiRemote\FormsControlLibrary\obj\Release\FormsControlLibrary.pdb
